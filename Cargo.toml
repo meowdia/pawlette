@@ -1,0 +1,7 @@
+[package]
+name = "pawlette"
+version = "0.0.0"
+edition = "2024"
+license = "MIT"
+description = "A work in progress colors library for video"
+[dependencies]

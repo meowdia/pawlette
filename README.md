@@ -1,0 +1,1 @@
+A work in progress, Chroma / Color library, the goal is to make a standalone library that can be used to manipulate video colors in a variety of ways, and it can be used in video encoder / decoders projects. Safe by default with optional SIMD-optimized paths.
